@@ -48,5 +48,5 @@ var aText = new Array(
   }
   const hola = '121'
   console.log(hola,'es un numero')
-  
+  // TODO : hola , como estan!
   typewriter();
