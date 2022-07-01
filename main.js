@@ -1,14 +1,11 @@
 $('.navTrigger').click(function () {
-  $(this).toggleClass('active');
-  console.log("Clicked menu");
-  $("#mainListDiv").toggleClass("show_list");
-  $("#mainListDiv").fadeIn();
+  $(th
 
 
 
 // !Asadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 // ! bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-// ! aa2222211111111 vvvvvvvvvvvvvv
+// 90909090909090
 
 });
 
