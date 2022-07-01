@@ -7,9 +7,7 @@ $('.navTrigger').click(function () {
 
 
 // !Asadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-// ! bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-// ! aa2222211111111 vvvvvvvvvvvvvv
-
+//* g8888888888888888888888888888888888888888888888888888888888888888
 });
 
 
@@ -48,6 +46,7 @@ var aText = new Array(
     setTimeout("typewriter()", iSpeed);
    }
   }
-  
+  const hola = '121'
+  console.log(hola,'es un numero')
   
   typewriter();
