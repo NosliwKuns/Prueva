@@ -50,3 +50,6 @@ var aText = new Array(
   console.log(hola,'es un numero')
   // TODO : hola , como estan!
   typewriter();
+
+
+  // holaaaaaaaaaaaaaaaaaaaaaa
